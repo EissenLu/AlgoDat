@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/SortiertAlgorithmen/SortiertAlgorithmen.csproj",
-      "projectName": "SortiertAlgorithmen",
-      "projectPath": "/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/SortiertAlgorithmen/SortiertAlgorithmen.csproj",
+      "projectUniqueName": "/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/InsertionSort.csproj",
+      "projectName": "InsertionSort",
+      "projectPath": "/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/InsertionSort.csproj",
       "packagesPath": "/Users/lukaseissen/.nuget/packages/",
-      "outputPath": "/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/SortiertAlgorithmen/obj/",
+      "outputPath": "/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/lukaseissen/.nuget/NuGet/NuGet.Config"
