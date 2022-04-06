@@ -1,0 +1,13 @@
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/bin/Debug/netcoreapp3.1/InsertionSort.deps.json
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/bin/Debug/netcoreapp3.1/InsertionSort.runtimeconfig.json
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/bin/Debug/netcoreapp3.1/InsertionSort.runtimeconfig.dev.json
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/bin/Debug/netcoreapp3.1/InsertionSort.dll
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/bin/Debug/netcoreapp3.1/InsertionSort.pdb
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/obj/Debug/netcoreapp3.1/InsertionSort.csproj.AssemblyReference.cache
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/obj/Debug/netcoreapp3.1/InsertionSort.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/obj/Debug/netcoreapp3.1/InsertionSort.AssemblyInfoInputs.cache
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/obj/Debug/netcoreapp3.1/InsertionSort.AssemblyInfo.cs
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/obj/Debug/netcoreapp3.1/InsertionSort.csproj.CoreCompileInputs.cache
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/obj/Debug/netcoreapp3.1/InsertionSort.dll
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/obj/Debug/netcoreapp3.1/InsertionSort.pdb
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/InsertionSort/obj/Debug/netcoreapp3.1/InsertionSort.genruntimeconfig.cache
