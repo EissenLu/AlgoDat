@@ -1,0 +1,13 @@
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/bin/Debug/netcoreapp3.1/Algorithmen.deps.json
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/bin/Debug/netcoreapp3.1/Algorithmen.runtimeconfig.json
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/bin/Debug/netcoreapp3.1/Algorithmen.runtimeconfig.dev.json
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/bin/Debug/netcoreapp3.1/Algorithmen.dll
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/bin/Debug/netcoreapp3.1/Algorithmen.pdb
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/obj/Debug/netcoreapp3.1/Algorithmen.csproj.AssemblyReference.cache
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/obj/Debug/netcoreapp3.1/Algorithmen.GeneratedMSBuildEditorConfig.editorconfig
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/obj/Debug/netcoreapp3.1/Algorithmen.AssemblyInfoInputs.cache
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/obj/Debug/netcoreapp3.1/Algorithmen.AssemblyInfo.cs
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/obj/Debug/netcoreapp3.1/Algorithmen.csproj.CoreCompileInputs.cache
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/obj/Debug/netcoreapp3.1/Algorithmen.dll
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/obj/Debug/netcoreapp3.1/Algorithmen.pdb
+/Users/lukaseissen/Library/Mobile Documents/com~apple~CloudDocs/Projects/repro/AlgoDat/obj/Debug/netcoreapp3.1/Algorithmen.genruntimeconfig.cache
