@@ -21,7 +21,7 @@ namespace SortiertAlgorithmen
             {
                 foreach (var charkter in tempCharaktarArray)
                 {
-                    inputCharaktarToInt[count] = Convert.ToInt32(charkter);
+                    inputCharaktarToInt[count] = Convert.ToInt32(Char.GetNumericValue(charkter));
                     count++;
                 }
 
@@ -40,7 +40,7 @@ namespace SortiertAlgorithmen
             InsertionSort insertionSortAlgorithmen;
             insertionSortAlgorithmen = new InsertionSort(intArray);
             insertionSortAlgorithmen.SortArray();
-            insertionSortAlgorithmen.ToString();
+            Console.WriteLine(insertionSortAlgorithmen.ToString());
         }
 
         static void Main(string[] args)
